@@ -1,0 +1,1 @@
+-- .AddTokenProvider<Fido2UserTwoFactorTokenProvider>("FIDO2");
